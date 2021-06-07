@@ -1,1 +1,1 @@
-# cheesy1
+This code takes pre-determined data to alter data entered by a user. This data in particular is how many kilograms of cheese they've produced. Using this code, they will be able to calculate the number of containers they will need to store their cheese, how much it will cost to package the containers, and their overall profits. The user can use this program as many times as necessary to determine the information needed for however many kilograms of cheese they may produce.
